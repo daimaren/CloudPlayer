@@ -14,7 +14,7 @@
 
 <a href="image/stream_home.png"><img src="image/stream_home.png" width="45%"/></a>
 
-<a href="image/stream.png"><img src="image/live.png" width="100%"/></a>
+<a href="image/stream.png"><img src="image/stream.png" width="100%"/></a>
 
 ## Thanks to the open source project
 

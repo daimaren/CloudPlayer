@@ -1,0 +1,32 @@
+<resources>
+    <declare-styleable name="RainbowProgressBar">
+        <attr name="progress_current" format="integer"/>
+        <attr name="progress_max" format="integer"/>
+
+        <attr name="progress_start_color" format="color"/>
+        <attr name="progress_end_color" format="color"/>
+        <attr name="progress_unreached_color" format="color"/>
+
+        <attr name="progress_height" format="dimension"/>
+        <attr name="progress_radius" format="dimension"/>
+
+        <attr name="progress_type" format="enum">
+            <enum name="circle" value="0"/>
+            <enum name="line" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="SmileyLoadingView">
+        <!-- animation duration -->
+        <attr name="duration" format="integer"/>
+        <!-- stroke width -->
+        <attr name="strokeWidth" format="dimension"/>
+        <!-- stroke color -->
+        <attr name="strokeColor" format="color"/>
+        <!-- animation repeat count -->
+        <attr name="animRepeatCount" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="MultiToggleImageButton">
+        <attr name="imageIds" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ff7800-->
+    <color name="colorPrimary">#008867</color>
+    <color name="colorPrimaryDark">#008867</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue">#FF35B5E5</color>
+    <color name="blue_pressed">#FF0099CC</color>
+    <color name="green">#FF99CC00</color>
+    <color name="green_pressed">#FF669900</color>
+    <color name="purple">#FFAA66CC</color>
+    <color name="purple_pressed">#FF9933CC</color>
+    <color name="red">#FFFF4444</color>
+    <color name="red_pressed">#FFCC0000</color>
+    <color name="yellow">#FFFFBB33</color>
+    <color name="yellow_pressed">#FFFF8800</color>
+
+    <color name="whaite_text">#fafafa</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_text">#FFFFFF</color>
+    <color name="theme_red">#d20000</color>
+</resources>

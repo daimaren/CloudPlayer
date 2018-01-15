@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:enabled="true"
+        app:showAsAction="never"
+        android:id="@+id/add"
+        android:title="add" />
+    <item
+        android:enabled="true"
+        app:showAsAction="never"
+        android:id="@+id/delete"
+        android:title="delete" />
+    <item
+        android:enabled="true"
+        app:showAsAction="never"
+        android:id="@+id/setting"
+        android:title="setting" />
+    <item
+        android:enabled="true"
+        app:showAsAction="never"
+        android:id="@+id/about_me"
+        android:title="about me" />
+</menu>

@@ -6,13 +6,13 @@
 
 ## Screenshots
 
-<a href="image/video_home.png"><img src="image/video_home.png" width="50%"/></a> <a href="image/video_detail.png"><img src="image/video_detail.png" width="50%"/></a> <a href="image/video.png"><img src="image/video.png" width="50%"/></a>
+<a href="image/video_home.png"><img src="image/video_home.png" width="45%"/></a> <a href="image/video_detail.png"><img src="image/video_detail.png" width="45%"/></a> <a href="image/video.png"><img src="image/video.png" width="45%"/></a>
 
-<a href="image/live_home.png"><img src="image/live_home.png" width="50%"/></a> <a href="image/live_detail.png"><img src="image/live_detail.png" width="50%"/></a> <a href="image/live.png"><img src="image/live.png" width="50%"/></a>
+<a href="image/live_home.png"><img src="image/live_home.png" width="45%"/></a> <a href="image/live_detail.png"><img src="image/live_detail.png" width="45%"/></a> <a href="image/live.png"><img src="image/live.png" width="45%"/></a>
 
-<a href="image/music_home.png"><img src="image/music_home.png" width="50%"/></a> <a href="image/music_detail.png"><img src="image/music_detail.png" width="50%"/></a> <a href="image/music.png"><img src="image/music.png" width="50%"/></a>
+<a href="image/music_home.png"><img src="image/music_home.png" width="45%"/></a> <a href="image/music_detail.png"><img src="image/music_detail.png" width="45%"/></a> <a href="image/music.png"><img src="image/music.png" width="45%"/></a>
 
-<a href="image/stream_home.png"><img src="image/stream_home.png" width="50%"/></a> <a href="image/stream.png"><img src="image/stream.png" width="50%"/></a>
+<a href="image/stream_home.png"><img src="image/stream_home.png" width="45%"/></a> <a href="image/stream.png"><img src="image/stream.png" width="45%"/></a>
 
 ## Thanks to the open source project
 

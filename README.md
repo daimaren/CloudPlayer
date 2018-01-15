@@ -4,6 +4,9 @@
 
 ![](https://github.com/HotBitmapGG/OhMyBiliBili/blob/OhMyBiliBili/art/bg2.png?raw=true)
 
+## keywords
+
+bilibili、videoplayer、musicplayer、vrlib、Stream、framework、MediaPlayer、MediaRecorder、AudioRecorder、MediaExtractor、MediaSync、MediaMuxer、AudioTrack、MediaCodec、StagefrightPlayer、StagefrightRecoder、AwesomePlayer、NuPlayer、OpenMax、OMX、OpenCore、SurfaceFinger、AudioFinger、FFmpeg、FFplay、RTSP、HLS、RTMP、封装格式、TS、RMVB、FLV、MP4、H.264、HEVC、VP9、MPEG2/4、AAC、MP3、AC-3、YUV420P、RGB、PCM、码率、帧、采样率、Camera、CameraService
 ## Screenshots
 
 <a href="image/video_home.png"><img src="image/video_home.png" width="45%"/></a> <a href="image/video_detail.png"><img src="image/video_detail.png" width="45%"/></a> <a href="image/video.png"><img src="image/live.png" width="100%"/></a>
